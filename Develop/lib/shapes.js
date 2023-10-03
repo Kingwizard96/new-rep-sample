@@ -1,8 +1,7 @@
 // Shape class utilizes constructor to define what it means to be a shape
 class Shape {
     constructor() {
-      this.color = "";
-    }
+      this.color = ""; }
     setColor(colorVar) {
       this.color = colorVar;
     }
