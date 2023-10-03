@@ -8,6 +8,8 @@
 
  * [Live-Screen-Recording-of-Application-Functionality](#live-screen-recording-of-application-functionality)
 
+ * [Screenshot](#screenshot)
+
  * [License](#license)
 
  * [Questions](#questions)
@@ -52,6 +54,9 @@ The following image shows a mock-up of the generated SVG given the following inp
 ## live-screen-recording-of-application-functionality
 ("https://drive.google.com/file/d/1OgwZNOXiCEIVUwhLDPJ7TLubcpvmXTDU/view")
 
+
+## Screenshot
+![FB549EAE-6998-4F29-8849-26D5F5CB69B3](https://github.com/Kingwizard96/new-rep-sample/assets/132643725/6123a460-9a66-405f-baa5-b81abddc2447)
  
 ## License
 
@@ -63,6 +68,8 @@ If you have any questions or need further assistance with this application, plea
 
 - GitHub Profile: [Your GitHub Username](https://github.com/kingwizard96)
 - Email: [Your Email Address](mailto:calvarado1996@gmail.com)
+
+
 
 
 Thank you for visiting
