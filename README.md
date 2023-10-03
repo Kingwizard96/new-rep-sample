@@ -1,6 +1,6 @@
 # new-rep-sample
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 
@@ -8,10 +8,9 @@
 
  * [Live-Screen-Recording-of-Application-Functionality](#live-screen-recording-of-application-functionality)
 
- * [Screenshots](#screenshots)
-
  * [License](#license)
 
+ * [Questions](#questions)
 
 
 ## Description
@@ -50,6 +49,20 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 The following image shows a mock-up of the generated SVG given the following input entered by the user: `SVG` for the text, `white` for the text color, `circle` from the list of shapes, and `green` for the shape color. Note that this is just an image of the output SVG and not the SVG file itself:
 
 
+## live-screen-recording-of-application-functionality
+("https://drive.google.com/file/d/1OgwZNOXiCEIVUwhLDPJ7TLubcpvmXTDU/view")
+
+ 
 ## License
 
 NOTICE: This application is covered under the MIT License
+
+
+## Questions
+If you have any questions or need further assistance with this application, please don't hesitate to reach out:
+
+- GitHub Profile: [Your GitHub Username](https://github.com/kingwizard96)
+- Email: [Your Email Address](mailto:calvarado1996@gmail.com)
+
+
+Thank you for visiting
