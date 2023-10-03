@@ -11,7 +11,7 @@ function writeToFile(fileName, answers) {
   svgString += "<g>";
   svgString += `${answers.shape}`;
 
-  // Conditional check takes users input from choices array and then adds polygon properties and shape color to SVG string
+  //add to SVG
   let shapeChoice;
   if (answers.shape === "Triangle") {
     shapeChoice = new Triangle();
