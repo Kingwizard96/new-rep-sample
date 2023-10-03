@@ -1,6 +1,6 @@
 const inquirer = require(inquirer);
 const fs = require("fs");
-const { Triangle, Square, Circle } = require("./lib/shapes");
+const { Triangle, Square, Circle } = require("./Develop/lib/shapes");
 
 // function writes the svg file using user answers 
 function writeToFile(fileName, answers) {
@@ -39,12 +39,12 @@ function promptUser() {
         },
         {
             type: "input",
-            message:" choose a text color? ",
+            message:" Choose a text color? ",
             name: 'textColor',
         },
         {
             type: "list",
-            message:"what shape would you like the logo to be?",
+            message:"What shape would you like the logo to be?",
             choices: ["Triangle", "Square", "Circle"],
             name: 'shape',
         },  
